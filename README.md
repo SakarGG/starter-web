@@ -12,3 +12,4 @@ Sample website with plenty of files for demos
 #### Subtitle
 
 Copyright @2024 - @2024
+Git is fun to use
