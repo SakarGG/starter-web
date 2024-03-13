@@ -16,3 +16,4 @@
 	
 	
 Stashing examples
+multi stash branch
