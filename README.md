@@ -11,4 +11,4 @@ Sample website with plenty of files for demos
 ### Title
 #### Subtitle
 
-dgdg
+Copyright @2024
